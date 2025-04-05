@@ -1,5 +1,5 @@
 ##  📊 Hotel-Bookings:
-A data analysis project on increasing hotel bookings cancellation using Python.
+A data analysis project on increasing hotel bookings cancellation using SQL, Python and Excel.
 
 ## 📌 Project Overview:
 This project analyzes the data of a hotel. They are facing more number of cancellation rates which is affecting their revenue. 
