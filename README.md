@@ -16,4 +16,4 @@ With the help of my analysis, I was able to help them to find the reasons for th
 - Seasonal cancellation patterns
 
 ## 🛠 Tools & Technologies:
-- **Python** (Pandas, Matplotlib, Seaborn), SQL and Excel
+- Python(Pandas, Matplotlib, Seaborn), SQL and Excel
